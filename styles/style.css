@@ -112,6 +112,7 @@ body{
 
 .apresentacao_imagem{
     width: 40%;
+    border-radius: 3%;
 }
 
 .img_curriculo{
@@ -147,6 +148,10 @@ body{
 
     .apresentacao_conteudo{
         width: auto;
+    }
+
+    .apresentacao_imagem{
+        width: 70%;
     }
 
 }
